@@ -1,2 +1,2 @@
-# Add_new_js
+# news_management_js
 add update delete news
